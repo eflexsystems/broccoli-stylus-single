@@ -1,22 +1,26 @@
 {
-  "name": "broccoli-stylus-single",
+  "name": "eflex-broccoli-stylus-single",
   "description": "Single-file-output Stylus compiler for Broccoli",
   "version": "1.0.0",
   "author": {
-    "name": "Gabriel Grant",
-    "email": "g@briel.ca"
+    "name": "Jacob Jewell",
+    "email": "jacobjewell@eflexsystems.com"
   },
   "contributors": [
     {
       "name": "Jo Liss",
       "email": "joliss42@gmail.com"
+    },
+    {
+      "name": "Gabriel Grant",
+      "email": "g@briel.ca"
     }
   ],
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabrielgrant/broccoli-stylus-single"
+    "url": "https://github.com/eflexsystems/broccoli-stylus-single"
   },
   "keywords": [
     "broccoli-plugin",
@@ -37,7 +41,7 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/gabrielgrant/broccoli-stylus-single/issues"
+    "url": "https://github.com/eflexsystems/broccoli-stylus-single/issues"
   },
-  "homepage": "https://github.com/gabrielgrant/broccoli-stylus-single"
+  "homepage": "https://github.com/eflexsystems/broccoli-stylus-single"
 }
